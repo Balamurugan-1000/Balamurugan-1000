@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am a final-year student passionate about buildin
 ### **Frontend Development**  
 - **Languages:** HTML, CSS, JavaScript, TypeScript  
 - **Libraries/Frameworks:** React, Next.js, Vue.js, Nuxt.js, Angular  
-- **Styling:** Tailwind CSS, CSS3, SCSS  
+- **Styling:** Tailwind CSS,SCSS  
 
 ### **Backend Development**  
 - **Languages:** Node.js, Java  
@@ -40,11 +40,6 @@ A full-featured social media application built using Next.js, TypeScript, Prisma
 ### **4. Vehicle Renting App** *(In Progress)*  
 A full-stack application using Spring Boot for the backend and Angular for the frontend with OpenAPI documentation.  
 
----
-
-## 🌱 **Current Focus**  
-- Building a real-time **Interview Process Website** using Nuxt.js, Express, and MySQL to streamline employee tracking.  
-- Expanding my knowledge in **system design** and **cloud technologies**.  
 
 ---
 
