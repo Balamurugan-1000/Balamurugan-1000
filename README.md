@@ -5,13 +5,13 @@ Welcome to my GitHub profile! I am a final-year student passionate about buildin
 
 ## 🚀 **Skills**  
 
+- **Languages:** JavaScript, TypeScript, Java, Python
+
 ### **Frontend Development**  
-- **Languages:** HTML, CSS, JavaScript, TypeScript  
-- **Libraries/Frameworks:** React, Next.js, Vue.js, Nuxt.js, Angular  
+- **Libraries/Frameworks:** React, Next.js, Vue.js, Nuxt.js, Angular
 - **Styling:** Tailwind CSS,SCSS  
 
 ### **Backend Development**  
-- **Languages:** Node.js, Java  
 - **Frameworks:** Express.js, Spring Boot  
 - **Databases:** MongoDB, MySQL, PostgreSQL  
 
