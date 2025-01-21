@@ -37,7 +37,7 @@ A full-featured social media application built using Next.js, TypeScript, Prisma
 - **Live Demo:** https://next-media-15.vercel.app  
 - **GitHub:** https://github.com/Balamurugan-1000/next-media  
 
-### **4. Vehicle Renting App** *(In Progress)*  
+### **4. Vehicle Renting App**
 A full-stack application using Spring Boot for the backend and Angular for the frontend with OpenAPI documentation.  
 
 
@@ -46,6 +46,5 @@ A full-stack application using Spring Boot for the backend and Angular for the f
 ## 📫 **Connect with Me**  
 - **GitHub:** https://github.com/Balamurugan-1000  
 - **Email:** [rbalamurugan10000@gmail.com](mailto:rbalamurugan10000@gmail.com)  
-- **Phone:** +91 93454 41002  
 
 ---
