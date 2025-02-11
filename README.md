@@ -3,7 +3,7 @@ Welcome to my GitHub profile! I am a final-year student passionate about buildin
 
 ---
 # Portfolio
--balamuruganr.me
+ ### https://balamuruganr.me
 
 ## 🚀 **Skills**  
 
