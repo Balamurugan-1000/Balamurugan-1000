@@ -2,8 +2,6 @@
 Welcome to my GitHub profile! I am a final-year student passionate about building impactful web applications. With hands-on experience in both frontend and backend development, I enjoy crafting user-friendly interfaces and scalable backend systems.  
 
 ---
-# Portfolio
- ### https://balamuruganr.me
 
 ## 🚀 **Skills**  
 
