@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I am a final-year student passionate about buildin
 
 ### **Frontend Development**  
 - **Libraries/Frameworks:** React, Next.js, Vue.js, Nuxt.js, Angular
-- **Styling:** Tailwind CSS,SCSS  
+- **Styling:** Tailwind CSS  
 
 ### **Backend Development**  
 - **Frameworks:** Express.js, Spring Boot  
@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I am a final-year student passionate about buildin
 ### **Other Skills**  
 - **Version Control:** Git, GitHub  
 - **State Management:** Redux, TanStack Query  
-- **Tools & Platforms:** REST APIs, OpenAPI Documentation, Prisma  
+- **Tools & Platforms:** REST APIs,Prisma  
 
 ---
 
