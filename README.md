@@ -1,50 +1,59 @@
-# Hi there! 👋 I'm **Balamurugan R**  
-Welcome to my GitHub profile! I am a final-year student passionate about building impactful web applications. With hands-on experience in both frontend and backend development, I enjoy crafting user-friendly interfaces and scalable backend systems.  
+# 👋 Hey there! I'm **Balamurugan R**
+
+🎓 Final-year ECE student at KLNCE  
+💻 Full-stack dev | DSA grinder | Linux tweaker  
+🧠 Lifelong learner chasing mastery, one commit at a time  
+🔥 Currently building [GovTrackTN](https://balamuruganr.me) + grinding DSA  
+🌱 Daily commit challenge: Turn this chart into a jungle 🟩🟩🟩
 
 ---
 
-## 🚀 **Skills**  
+## 🚀 Tech Arsenal
 
-- **Languages:** JavaScript, TypeScript, Java, Python
+### 🖥️ **Frontend**
+- React ⚛️ | Next.js | Vue | Nuxt | Angular  
+- Tailwind CSS 🌈 | DaisyUI | ShadCN  
 
-### **Frontend Development**  
-- **Libraries/Frameworks:** React, Next.js, Vue.js, Nuxt.js, Angular
-- **Styling:** Tailwind CSS  
+### 🛠️ **Backend**
+- Express.js | Spring Boot  
+- MongoDB | PostgreSQL | MySQL  
 
-### **Backend Development**  
-- **Frameworks:** Express.js, Spring Boot  
-- **Databases:** MongoDB, MySQL, PostgreSQL  
-
-### **Other Skills**  
-- **Version Control:** Git, GitHub  
-- **State Management:** Redux, TanStack Query  
-- **Tools & Platforms:** REST APIs,Prisma  
+### 🧰 **Other Tools**
+- Git & GitHub | TanStack Query | Redux | Prisma  
+- Docker 🐳 | REST APIs | Linux (NixOS / Fedora user 😎)  
 
 ---
 
-## 💼 **Projects**  
+## 💼 Featured Projects
 
-### **1. E-commerce Website**  
-A responsive online store built using the MERN stack with Tailwind CSS, featuring PayPal integration.  
-- **GitHub:** https://github.com/Balamurugan-1000/Ecommerce-MERN  
+### 🌐 [E-commerce Website](https://github.com/Balamurugan-1000/Ecommerce-MERN)  
+Built with MERN + Tailwind | PayPal integration | JWT Auth
 
-### **2. Task Manager App**  
-A task management app developed with React and Redux, featuring robust state management and API integration.  
-- **GitHub:** https://github.com/Balamurugan-1000/Task-manager  
+### ✅ [Task Manager App](https://github.com/Balamurugan-1000/Task-manager)  
+React + Redux | Access/Refresh Tokens | Fully independent build 🧠
 
-### **3. Social Media App**  
-A full-featured social media application built using Next.js, TypeScript, Prisma, and PostgreSQL with responsive design and real-time interactions.  
-- **Live Demo:** https://next-media-15.vercel.app  
-- **GitHub:** https://github.com/Balamurugan-1000/next-media  
+### 🧑‍🤝‍🧑 [Social Media App](https://github.com/Balamurugan-1000/next-media)  
+Built with Next.js, TypeScript, Prisma | Live 👉 [next-media-15.vercel.app](https://next-media-15.vercel.app)
 
-### **4. Vehicle Renting App**
-A full-stack application using Spring Boot for the backend and Angular for the frontend with OpenAPI documentation.  
-
+### 🚗 Vehicle Renting App  
+Angular + Spring Boot + PostgreSQL | Complete OpenAPI docs
 
 ---
 
-## 📫 **Connect with Me**  
-- **GitHub:** https://github.com/Balamurugan-1000  
-- **Email:** [rbalamurugan10000@gmail.com](mailto:rbalamurugan10000@gmail.com)  
+## 📊 GitHub Activity
+
+![KaizenX's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Balamurugan-1000&show_icons=true&theme=radical&hide_title=true)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Balamurugan-1000&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Balamurugan-1000&layout=compact&theme=radical)  
 
 ---
+
+## 📬 Let's Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/balamurugan1000)  
+📧 rbalamurugan10000@gmail.com  
+🌐 [balamuruganr.me](https://balamuruganr.me)  
+🐙 [@Balamurugan-1000](https://github.com/Balamurugan-1000)
+
+---
+
+> _“Every day you grind, you're one commit closer to your dream job. Keep going, future tech legend.”_ 🚀  
