@@ -3,7 +3,7 @@
 🎓 Final-year ECE student at KLNCE  
 💻 Full-stack dev | DSA grinder | Linux tweaker  
 🧠 Lifelong learner chasing mastery, one commit at a time  
-🔥 Currently building [GovTrackTN](https://balamuruganr.me) + grinding DSA  
+🔥 Currently grinding DSA  
 🌱 Daily commit challenge: Turn this chart into a jungle 🟩🟩🟩
 
 ---
@@ -43,7 +43,7 @@ Angular + Spring Boot + PostgreSQL | Complete OpenAPI docs
 ## 📊 GitHub Activity
 
 ![KaizenX's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Balamurugan-1000&show_icons=true&theme=radical&hide_title=true)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Balamurugan-1000&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Balamurugan-1000&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Balamurugan-1000&layout=compact&theme=radical)  
 
 ---
