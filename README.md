@@ -45,7 +45,7 @@ Angular + Spring Boot + PostgreSQL | Documented via OpenAPI
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Balamurugan-1000&show_icons=true&theme=radical&hide_title=true" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Balamurugan-1000&theme=radical" height="165">
+<img src="https://streak-stats.demolab.com?user=Balamurugan-1000&theme=radical" height="165">
 </p>
 
 <p align="center">
