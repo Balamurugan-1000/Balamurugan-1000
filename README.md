@@ -1,16 +1,17 @@
 <!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=Balamurugan-1000&color=7b68ee&style=flat-square" alt="Profile Views" />
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Balamurugan-1000&color=7b68ee&style=flat-square" alt="Profile Views" />
+</p>
 
-
-# 👋 **Balamurugan R**
+# 👋 Hey there, I'm **Balamurugan R** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 🎓 Final-Year ECE Student @ KLNCE  
-💻 Full-Stack Developer | 🧠 DSA Enthusiast | 🐧 NixOS/Linux Power User  
-Crafting robust solutions. Mastering the craft. Committing to excellence—every day.
+💻 Full-Stack Dev | 🧠 DSA Warrior | 🐧 Linux/NixOS Enthusiast  
+🔥 Building real-world apps. Tweaking configs. Grinding every single day.  
 
 ---
 
-## 🛠️ **Skill Arsenal**
+## 🚀 Tech Stack & Tools
 
 <p align="center">
   <!-- Frontend -->
@@ -23,10 +24,9 @@ Crafting robust solutions. Mastering the craft. Committing to excellence—every
   <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux" />
   <!-- Backend -->
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs" />
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express" />
+  <img src="https://img.shields.io/badge/-Express.js-000?style=flat-square&logo=express" />
   <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot" />
   <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go" />
-  <img src="https://img.shields.io/badge/-REST_API-FF6F61?style=flat-square&logo=rest" />
   <!-- Databases -->
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb" />
@@ -38,68 +38,66 @@ Crafting robust solutions. Mastering the craft. Committing to excellence—every
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
   <img src="https://img.shields.io/badge/-NixOS-5277C3?style=flat-square&logo=nixos" />
   <img src="https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim" />
-  <!-- CS Fundamentals -->
-  <img src="https://img.shields.io/badge/-DSA-FFD700?style=flat-square&logo=code" />
+  <!-- Extras -->
+  <img src="https://img.shields.io/badge/-DSA-F7DF1E?style=flat-square&logo=leetcode" />
 </p>
 
 ---
 
-## 🌟 **Signature Projects**
+## 🌟 Signature Projects
 
-### 🗂️ **[Project Management System](https://github.com/Balamurugan-1000/Task-manager)**  
-- Role-based access (Owner, Employee, Groups)  
-- Efficient task workflows and user management  
-- Custom UI built with DaisyUI  
-
----
-
-### 📱 **[Next Social Media App](https://github.com/Balamurugan-1000/next-media)**  
-- Next.js, Prisma, TanStack Query stack  
-- Posts, timelines, dark/light mode  
-- Deployed at [next-media-15.vercel.app](https://next-media-15.vercel.app)  
+### 🗂️ [**Project Management System**](https://github.com/Balamurugan-1000/Task-manager)
+🔐 RBAC-based app for Owners, Employees & Groups  
+✅ Real-time task workflows, clean UI with **DaisyUI**  
+📦 Built from scratch without tutorials – pure brain juice 🧠💪  
 
 ---
 
-### 🚗 **[Vehicle Renting Platform](https://github.com/Balamurugan-1000/RentARide)**  
-- Angular, Spring Boot, PostgreSQL integration  
-- Client-focused with Swagger API docs  
+### 📱 [**Next.js Social Media App**](https://github.com/Balamurugan-1000/next-media)
+🧩 Tech Stack: Next.js + Prisma + TanStack Query  
+🌗 Dark/Light modes, Timeline view, Auth system  
+🌐 [Live Demo](https://next-media-15.vercel.app)  
 
 ---
 
-### 🛍️ **[E-Commerce Platform](https://github.com/Balamurugan-1000/Ecommerce-MERN)**  
-- MERN stack with PayPal payment gateway  
-- Admin dashboard and scalable design  
+### 🚗 [**Vehicle Renting Platform**](https://github.com/Balamurugan-1000/RentARide)
+🛠️ Powered by **Angular + Spring Boot + PostgreSQL**  
+📄 Swagger Docs for API testing  
+👥 Client-focused with secure booking flow  
 
 ---
 
-## 📊 **GitHub Insights**
+### 🛍️ [**E-Commerce Platform**](https://github.com/Balamurugan-1000/Ecommerce-MERN)
+🛒 Built with the **MERN** stack + **PayPal** integration  
+📊 Admin dashboard with complete order/user management  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Balamurugan-1000&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balamurugan-1000&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Balamurugan-1000&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
-## 🌍 **Let’s Connect**
+## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/balamurugan1000"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Balamurugan-1000"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://balamuruganr.me"><img src="https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=firefox&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/balamurugan1000">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Balamurugan-1000">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://balamuruganr.me">
+    <img src="https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=firefox&logoColor=white" />
+  </a>
 </p>
 
-📧 **rbalamurugan10000@gmail.com**
+📫 **rbalamurugan10000@gmail.com**
 
 ---
 
-## ✨ **Guiding Principle**
-
-> *"Excellence is a habit, forged one commit at a time."*  
-> *"Code is my canvas—precision is my art."*  
-
----
+> _“Code. Break things. Fix them better. Repeat.”_ ✨
