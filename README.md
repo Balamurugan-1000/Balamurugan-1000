@@ -3,7 +3,7 @@
 
 <!-- Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=4000&pause=1000&color=82aaff¢er=true&vCenter=true&width=480&lines=Full-Stack+Engineer+%7C+Linux+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=4000&pause=1000&color=82aaff¢er=true&vCenter=true&width=480&lines=Full-Stack+Engineer+%7C alt="Typing SVG" />
 </p>
 
 ---
